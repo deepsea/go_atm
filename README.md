@@ -18,5 +18,5 @@ ATM written in go
 ### Contribution guidelines ###
 * Any new code should have associated tests
 
-# Who do I talk to?
+### Who do I talk to? ###
 * Richard Lawlor
