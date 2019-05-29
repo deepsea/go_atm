@@ -1,21 +1,22 @@
-# ATM using Go
+# README #
 
-# What is this repository for?
-ATM using go 1.12.5 linux/amd64
+ATM written in go
 
-# How do I get set up?
-Check out (clone) git repository
+### What is this repository for? ###
+* ATM using go 1.12.5 linux/amd64
+* Version 1.0
 
-# Imports
-go get -u github.com/go-sql-driver/mysql
-go get -u github.com/jinzhu/gorm
-go get -u github.com/gorilla/mux
+### How do I get set up? ###
+* Check out (clone) git repository
+* go get -u github.com/go-sql-driver/mysql
+* go get -u github.com/jinzhu/gorm
+* go get -u github.com/gorilla/mux
 
-# mysql
-sudo apt-get install mysql-server
+### mysql ###
+* sudo apt-get install mysql-server
 
-# Contribution guidelines
-Any new code should have associated tests
+### Contribution guidelines ###
+* Any new code should have associated tests
 
 # Who do I talk to?
-Richard Lawlor
+* Richard Lawlor
